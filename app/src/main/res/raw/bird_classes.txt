@@ -1,4 +1,0 @@
-bird
-person
-head
-plane
